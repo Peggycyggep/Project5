@@ -32,7 +32,7 @@
     </plugin>
   </gazebo>
 
-  <!-- RGBD Camera -->
+<!-- RGBD Camera -->
   <gazebo reference="camera">
     <sensor type="depth" name="camera1">
         <always_on>1</always_on>
